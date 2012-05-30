@@ -1,1 +1,1 @@
-dir
+DIR /a
